@@ -9,4 +9,9 @@ Pkg.add("https://github.com/Mattriks/alphaPredictableComponents.jl")
 ```
 
 ## Documentation
-Documentation with examples can be found [here](../master/docs/build/index.md)
+
+- [**LATEST**][docs-latest-url]
+
+
+[docs-latest-url]: https://Mattriks.github.io/alphaPredictableComponents.jl/latest
+[docs-stable-url]: https://Mattriks.github.io/alphaPredictableComponents.jl/stable
